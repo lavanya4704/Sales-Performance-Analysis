@@ -6,6 +6,7 @@ The **Sales Performance Analysis and Business Intelligence Dashboard** is a data
 
 The project uses Python for data cleaning and analysis, SQL for data querying, and Looker Studio to create an interactive business intelligence dashboard.
 
+
 ## Project Objectives
 
 - Analyze overall sales and profit performance.
