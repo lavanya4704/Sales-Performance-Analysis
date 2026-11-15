@@ -39,14 +39,6 @@ The project uses Python for data cleaning and analysis, SQL for data querying, a
 
 **[View Interactive Sales Performance Dashboard](https://datastudio.google.com/reporting/105c31ab-d924-47eb-a1d9-e51c82fc7429)**
 
-## Dashboard Preview
-
-### Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
-
-### Product Analysis
-![Product Analysis](screenshots/product_analysis.png)
-
 ## Project Structure
 
 ```text
